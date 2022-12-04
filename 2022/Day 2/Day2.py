@@ -7,7 +7,7 @@ import string
 
 
 def main():
-    file = open("Day 2\input.txt", 'r')
+    file = open("2022\Day 2\input.txt", 'r')
 
     lines: string = []
     for line in file:

@@ -1,5 +1,5 @@
 def main():
-    file = open("Day 1\input.txt", 'r')
+    file = open("2022\Day 1\input.txt", 'r')
 
     max: int = 0
     sum: int = 0

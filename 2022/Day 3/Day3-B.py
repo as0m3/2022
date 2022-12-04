@@ -1,4 +1,4 @@
-file = open("Day 3\input.txt")
+file = open("2022\Day 3\input.txt", 'r')
 
 
 def main():
